@@ -1,7 +1,3 @@
-Her er en beskrivelse, som du kan bruge til et GitHub-repository for Tkinter-applikationen, der interagerer med en LLaMA-model fra Hugging Face:
-
----
-
 # LLaMA Model Interaction with Tkinter
 
 Dette repository indeholder en Python-applikation, der bruger Tkinter til at oprette en grafisk brugergrænseflade (GUI) til interaktion med en LLaMA-model fra Hugging Face. Applikationen tillader brugeren at indtaste tekst og se genereret output fra modellen direkte i GUI'en.
