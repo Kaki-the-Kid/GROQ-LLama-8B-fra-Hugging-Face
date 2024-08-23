@@ -64,10 +64,3 @@ Bidrag er velkomne! Du kan lave en pull request, hvis du ønsker at tilføje nye
 
 Dette projekt er licenseret under MIT License - se [LICENSE](LICENSE) filen for detaljer.
 
-## Kontakt
-
-Hvis du har spørgsmål, kan du kontakte mig på [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Erstat `yourusername` og `your-email@example.com` med dine egne oplysninger, og sørg for at tilpasse beskrivelsen til eventuelle yderligere specifikationer eller krav, du måtte have.
