@@ -56,11 +56,10 @@ Applikationen bruger modellen `Groq/Llama-3-Groq-8B-Tool-Use` fra Hugging Face. 
 3. Klik på "Send" for at generere et svar fra modellen.
 4. Se både din input og modellens output i outputfeltet.
 
-## Bidrag
-
-Bidrag er velkomne! Du kan lave en pull request, hvis du ønsker at tilføje nye funktioner eller rette fejl.
-
 ## Licens
 
 Dette projekt er licenseret under MIT License - se [LICENSE](LICENSE) filen for detaljer.
 
+## Referencer
+
+* https://huggingface.co/Groq/Llama-3-Groq-8B-Tool-Use
